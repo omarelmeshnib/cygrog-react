@@ -1,0 +1,37 @@
+.gaming-library-card{
+    flex: 1 1 100%;
+    text-align: center;
+}
+.gaming-library-card ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+    padding: 25px 0;
+}
+.gaming-library-card h4 {
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.gaming-library-card li img {
+     width: 120px;
+    border-radius: 10px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
